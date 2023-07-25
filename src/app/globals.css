@@ -16,7 +16,11 @@
   }
 }
 
-body {
+.teste {
+  background: linear-gradient(136.04deg, #7f00ff -15.75%, #e100ff 122.51%);
+}
+
+/* body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -24,4 +28,4 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
